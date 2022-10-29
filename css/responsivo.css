@@ -1,0 +1,13 @@
+@media (max-width:990px){
+    .imagen{
+        display: none;
+    }
+    .box-1{
+      margin-bottom: 100px;
+      margin-left: 0;
+    }
+    .box{
+        width: 80%;
+        justify-content: center;
+    }   
+}
